@@ -1,6 +1,6 @@
 {
   "name": "@press-cli-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "press-cli-dev core",
   "author": "foranima <foranima@163.com>",
   "homepage": "",
@@ -17,10 +17,11 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "552024a63f9ad60346badd0d488cca942ccfb9c8"
+  "gitHead": "45809f152b2f8f4c7745bf5e4d70607be7dcf033"
 }
