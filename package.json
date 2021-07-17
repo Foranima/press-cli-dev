@@ -1,0 +1,21 @@
+{
+  "name": "press-cli-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "press-cli": "./core/cli/bin/index.js"
+  },
+  "scripts": {
+    "test": "echo 1"
+  },
+  "keywords": [],
+  "author": "foranima <foranima@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
