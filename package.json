@@ -2,10 +2,10 @@
   "name": "press-cli-dev",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "bin": {
     "press-cli": "./core/cli/bin/index.js"
   },
+  "main": "index.js",
   "scripts": {
     "test": "echo 1"
   },

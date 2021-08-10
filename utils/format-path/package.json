@@ -1,9 +1,9 @@
 {
-  "name": "@press-cli-dev/utils",
+  "name": "@press-cli-dev/format-path",
   "version": "1.0.0",
-  "description": "press-cli-dev utils",
+  "description": "format path",
   "author": "foranima <foranima@163.com>",
-  "homepage": "",
+  "homepage": "https://github.com/Foranima/press-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -16,7 +16,14 @@
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foranima/press-cli-dev.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Foranima/press-cli-dev/issues"
   }
 }
